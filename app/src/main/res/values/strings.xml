@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab06</string>
+    <string name="but_NEW">Новая</string>
+    <string name="but_EDIT">Редакт.</string>
+    <string name="but_DELETE">Удалить</string>
+    <string name="TxtViewTitle">Заголовок</string>
+    <string name="TxtViewContent">Содержание</string>
+    <string name="EditContent" />
+    <string name="EditTitle" />
+    <string name="butCANCEL">Отмена</string>
+    <string name="butOK">Создать</string>
+    <string name="butCLOSE">Закрыть</string>
+</resources>
